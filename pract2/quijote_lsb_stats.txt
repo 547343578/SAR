@@ -1,0 +1,174 @@
+Lines: 37454
+Number words(including stopwords): 381320
+Number words(without stopwords): 184153
+Vocabulario size: 23159
+Number of symbols: 1136386
+Number of different symbols: 53
+Words (alphabetical order): 
+	10: 1
+	16: 1
+	1604: 1
+	1614: 1
+	1615: 1
+	17: 1
+	23: 1
+	abad: 5
+	abadejo: 2
+	abades: 1
+	abadesa: 2
+	abaja: 1
+	abajan: 1
+	abajarse: 2
+	abajen: 1
+	abajo: 41
+	abaj贸: 2
+	abal谩nzase: 1
+	abandonarme: 1
+	abarraganada: 1
+Words (by frequency): 
+	don: 2647
+	quijote: 2175
+	sancho: 2148
+	si: 1961
+	dijo: 1807
+	tan: 1233
+	respondi贸: 1062
+	se帽or: 1062
+	as铆: 1060
+	ser: 1056
+	bien: 1038
+	merced: 900
+	pues: 857
+	sino: 694
+	dos: 683
+	caballero: 661
+	decir: 578
+	hacer: 535
+	aunque: 531
+	dios: 524
+Symbols (alphabetical order): 
+	0: 2
+	1: 8
+	2: 1
+	3: 1
+	4: 2
+	5: 1
+	6: 4
+	7: 1
+	a: 145386
+	b: 20910
+	c: 50529
+	d: 61408
+	e: 129013
+	f: 6139
+	g: 16369
+	h: 14395
+	i: 70490
+	j: 10530
+	l: 46600
+	m: 33494
+Symbols (by frequency): 
+	a: 145386
+	e: 129013
+	o: 103364
+	r: 86383
+	s: 84944
+	n: 74194
+	i: 70490
+	d: 61408
+	c: 50529
+	l: 46600
+	t: 45780
+	u: 39645
+	m: 33494
+	p: 27344
+	b: 20910
+	g: 16369
+	v: 16212
+	h: 14395
+	j: 10530
+	q: 9296
+Word pairs (alphabetical order): 
+	$ abajarse: 1
+	$ abajo: 3
+	$ abaj贸: 1
+	$ abal谩nzase: 1
+	$ abejas: 2
+	$ aberenjenado: 1
+	$ abernuncio: 1
+	$ abierta: 1
+	$ abierto: 1
+	$ abiertos: 2
+	$ abismo: 1
+	$ abismos: 1
+	$ abomino: 1
+	$ aborrece: 1
+	$ aborrecido: 1
+	$ abran: 2
+	$ abrasada: 1
+	$ abrasar: 1
+	$ abrazada: 1
+	$ abrazado: 1
+Word pairs (by frequency): 
+	don quijote: 2007
+	dijo $: 461
+	respondi贸 sancho: 303
+	dijo don: 296
+	quijote $: 272
+	respondi贸 don: 265
+	sancho panza: 262
+	dijo sancho: 236
+	don $: 195
+	$ pues: 186
+	sancho $: 182
+	vuesa merced: 180
+	se帽or don: 173
+	$ as铆: 166
+	$ quijote: 159
+	$ si: 151
+	$ cap铆tulo: 129
+	$ don: 127
+	$ sancho: 127
+	$ se帽or: 127
+Symbol pairs (alphabetical order): 
+	04: 1
+	10: 1
+	14: 1
+	15: 1
+	16: 4
+	17: 1
+	23: 1
+	60: 1
+	61: 2
+	aa: 10
+	ab: 7799
+	ac: 5075
+	ad: 12170
+	ae: 409
+	af: 275
+	ag: 1706
+	ah: 585
+	ai: 421
+	aj: 1059
+	al: 11977
+Symbol pairs (by frequency): 
+	er: 24034
+	en: 22320
+	es: 22317
+	an: 18502
+	do: 17744
+	os: 17059
+	ra: 16072
+	ar: 15968
+	as: 15559
+	re: 14512
+	nt: 13917
+	te: 12374
+	de: 12360
+	on: 12256
+	ad: 12170
+	al: 11977
+	ue: 11944
+	ta: 11185
+	da: 11126
+	ie: 10826
